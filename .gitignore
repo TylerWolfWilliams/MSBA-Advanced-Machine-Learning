@@ -1,0 +1,16 @@
+# Large Kaggle data files
+Homework 2/train.csv
+Homework 2/test.csv
+Homework 2/train_engineered.csv
+Homework 2/test_engineered.csv
+Kaggle-S6E4/train.csv
+Kaggle-S6E4/test.csv
+
+# Generic data file patterns
+*.parquet
+*.pkl
+*.h5
+*.hdf5
+
+# Model artifacts
+catboost_info/
